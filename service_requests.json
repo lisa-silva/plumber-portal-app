@@ -1,0 +1,21 @@
+[
+  {
+    "customer_info": {
+      "full_name": "Lisa Silva",
+      "email": "lisacheri@gmail.com",
+      "phone": "4087268815",
+      "address": "4951 Cherry Ave., #206"
+    },
+    "service_details": {
+      "category": "Repair",
+      "type": "Leaky Faucet",
+      "urgency": "Need Soon",
+      "description": "Kitchen sink is clogged.",
+      "contact_preference": "Anytime"
+    },
+    "photo_uploaded": false,
+    "preliminary_price_range": "$75 - $250",
+    "timestamp": "2025-11-19T20:06:47.051811",
+    "request_id": "REQ20251119200647"
+  }
+]
